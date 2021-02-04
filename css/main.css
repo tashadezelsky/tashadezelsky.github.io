@@ -12,5 +12,31 @@ font-size:100%; font-weight: inherit; vertical-align: baseline;
 }
 
 body {
-  background-color: #000000;
+  background-color; white;
 }
+
+#txt {
+  position: fixed;
+ display:block;
+ padding-top: 2rem;
+ background-color: #000000;
+}
+
+.text {
+  text-align: left;
+  font-size: 2rem;
+  color:#ffffff;
+  font-family: futura;
+  padding-left: 2rem;
+}
+
+.desc {
+  text-align: right;
+  font-size: 2rem;
+  color: #ffffff;
+  font-family: futura;
+  padding-right: 2rem;
+  margin-top: -2.5rem;
+  padding-bottom:2rem;
+}
+
