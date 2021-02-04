@@ -14,21 +14,3 @@ font-size:100%; font-weight: inherit; vertical-align: baseline;
 body {
   background-color: #000000;
 }
-
-#images {
-  position: absolute;
-  margin-left: 50px;
-  margin-top: 200px;
-}
-
-.gd img {
-  position: absolute;
-  margin-left: 460px;
-  margin-top: -415px;
-}
-
-.insta img {
-  position: absolute;
-  margin-left: 920px;
-  margin-top: -415px;
-}
