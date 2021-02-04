@@ -16,7 +16,6 @@ body {
 }
 
 #txt {
-  position: fixed;
  display:block;
  padding-top: 2rem;
  background-color: #000000;
